@@ -36,6 +36,16 @@
             </div>
         </div>
     </div>
+
+    <script>
+        const apiKey = "09bcae12cbe35586a8b2a51a81e76d5f";
+        const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=dhaka";
+
+        async function checkWeather() {
+            const response = await fetch(apiUrl + '&appid=${apikey}');
+            var data = await response.json();
+        }
+    </script>
 </body>
 
 </html>
