@@ -114,7 +114,7 @@ body {
     color: red;
 }
 
-/* 🔹 Responsive Design for Tablets */
+
 @media (max-width: 768px) {
     .card {
         padding: 30px 25px;
