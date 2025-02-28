@@ -61,7 +61,7 @@
                     document.querySelector(".humidity").innerHTML = `${data.main.humidity}%`;
                     document.querySelector(".wind").innerHTML = `${data.wind.speed} km/h`;
 
-                    // Change weather icon based on weather condition
+                    
                     const weatherIcon = document.querySelector(".weather-icon");
                     if (data.weather[0].main === "Clouds") {
                         weatherIcon.src = "Images/clouds.png";
