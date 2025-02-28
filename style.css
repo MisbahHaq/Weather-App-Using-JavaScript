@@ -152,7 +152,7 @@ body {
     }
 }
 
-/* 🔹 Responsive Design for Mobile */
+
 @media (max-width: 480px) {
     .card {
         padding: 25px 20px;
