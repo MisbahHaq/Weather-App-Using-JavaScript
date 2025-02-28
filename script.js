@@ -28,8 +28,6 @@ async function checkWeather(city) {
             "Thunderstorm": "Images/thunderstorm.png"
         };
 
-        weatherIcon.src = weatherImages[data.weather[0].main] || "Images/default.png";
-
         document.querySelector(".weather").style.display = "block";
         document.querySelector(".error").style.display = "none";
 
