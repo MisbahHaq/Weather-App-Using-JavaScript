@@ -13,11 +13,11 @@ WeatherNow is a simple and intuitive weather app that provides real-time weather
 
 ## **Screenshots**  
 
-![1](https://github.com/user-attachments/assets/sample1.png)  
-![2](https://github.com/user-attachments/assets/sample2.png)  
-![3](https://github.com/user-attachments/assets/sample3.png)  
-![4](https://github.com/user-attachments/assets/sample4.png)  
-![5](https://github.com/user-attachments/assets/sample5.png)  
+![image](https://github.com/user-attachments/assets/728303ff-6265-4a2c-896e-648294fe800b)
+
+![image](https://github.com/user-attachments/assets/9b474fb8-8a8e-4f74-9757-81027dfef441)
+
+ 
 
 ## **Technologies Used**  
 
